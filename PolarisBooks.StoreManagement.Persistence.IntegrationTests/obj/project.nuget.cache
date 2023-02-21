@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "al1JWcnO1NFKATpwe6VT97zfmUWsfS/cDi5r54aheZCmyVUfzKb1VaBbzLxliqJwhACpZ0nj7rL+JysWgSXrVA==",
+  "dgSpecHash": "T1/4wMPZUoPUyEdxx1hzVsCtPBfSF5DP5Vgi6kkdPBY3UOgMuFHRQKCZERAW8Hkjm2txEabAb5KPMo5MwCg/Mg==",
   "success": true,
   "projectFilePath": "C:\\DotNetCore\\CleanArchitectureTemplate\\PolarisBooks.StoreManagement.Persistence.IntegrationTests\\PolarisBooks.StoreManagement.Persistence.IntegrationTests.csproj",
   "expectedPackageFiles": [

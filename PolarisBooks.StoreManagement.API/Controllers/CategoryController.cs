@@ -5,23 +5,23 @@ namespace PolarisBooks.StoreManagement.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BooksController : ControllerBase
+    public class CategoryController : ControllerBase
     {
 
         #region Properties
+
 
 
         #endregion
 
         #region Constructor
 
-        public BooksController()
+        public CategoryController()
         {
 
         }
 
         #endregion
-
 
         #region Public Actions
 
@@ -29,7 +29,7 @@ namespace PolarisBooks.StoreManagement.API.Controllers
         {
             try
             {
-                return "Books controller is working......";
+                return "Category Controller is working.....";
             }
             catch (Exception ex)
             {

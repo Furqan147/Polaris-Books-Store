@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace PolarisBooks.StoreManagement.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BooksController : ControllerBase
+    public class OrdersController : ControllerBase
     {
 
         #region Properties
@@ -15,13 +14,12 @@ namespace PolarisBooks.StoreManagement.API.Controllers
 
         #region Constructor
 
-        public BooksController()
+        public OrdersController()
         {
 
         }
 
         #endregion
-
 
         #region Public Actions
 
@@ -29,7 +27,7 @@ namespace PolarisBooks.StoreManagement.API.Controllers
         {
             try
             {
-                return "Books controller is working......";
+                return "Orders controller is working.......";
             }
             catch (Exception ex)
             {

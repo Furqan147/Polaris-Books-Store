@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fFnVaZuVYBnEBCJhqw3ok7vXl5w89J3P3FqJl4f61BTles/zhcsX+8b7GklnvRscvFlQs4Crp3gubfB7N6+HOQ==",
+  "dgSpecHash": "UXmGTnG0PnTRPGgR75RI/cv35wXfHQ8mvQK2WMwbvMzvBP43DzxBBiOJfsDpgGmZ71KHpv8AlzTaelDNw6atQg==",
   "success": true,
   "projectFilePath": "C:\\DotNetCore\\CleanArchitectureTemplate\\PolarisBooks.StoreManagement.Application\\PolarisBooks.StoreManagement.Application.csproj",
   "expectedPackageFiles": [],
